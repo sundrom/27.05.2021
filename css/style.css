@@ -1,0 +1,49 @@
+header{
+	height: 45px;
+	width: 100%;
+	background-color: purple;
+	border: 5px solid red;
+}
+ul{
+	text-align: center;
+	font-size: 14px;
+	font-family: sans-serif;
+	color: white;
+}
+li{
+	display: inline;
+	border: 2px solid black;
+	padding: 5px;
+	float: center;
+}
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+footer{
+	background-color: grey;
+	padding: 5px;
+	text-align: left;
+	color: white;
+}
+a {
+	color: white;
+}
+p{
+	text-align: center;
+	font-family: sans-serif;
+	border: 2px solid red;
+}
+
+.article{
+	border: 250px solid blueviolet;
+	display: block;
+}
+h{
+font-family: cursive;
+}
